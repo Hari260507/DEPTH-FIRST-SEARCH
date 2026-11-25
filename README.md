@@ -1,7 +1,7 @@
 # BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: HARSHADHARSHINI R </h3>
-<h3>Register Number: 212224030089 </h3>
+<h3>Name: HAREKRISHNAA M </h3>
+<h3>Register Number: 212224040095 </h3>
 <h3>Date:27/10/2026<h3>
   
 <H3>Aim:</H3>
